@@ -10,5 +10,6 @@ public class exampleforjankins1 {
         Logger logger = Logger.getLogger(exampleforjankins1.class);
         logger.info("Hello");
         logger.info("World");
+        logger.info("!");
     }
 }
