@@ -9,5 +9,6 @@ public class exampleforjankins1 {
     public static void main(String[] args) {
         Logger logger = Logger.getLogger(exampleforjankins1.class);
         logger.info("Hello");
+        logger.info("World");
     }
 }
