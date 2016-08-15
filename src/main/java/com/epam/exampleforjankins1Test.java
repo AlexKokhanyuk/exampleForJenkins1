@@ -10,7 +10,7 @@ public class exampleforjankins1Test {
     @org.junit.Test
     public void testMain() throws Exception {
         Random random = new Random();
-       // assert (random.nextBoolean());
-        assert (true);
+        assert (random.nextBoolean());
+
     }
 }

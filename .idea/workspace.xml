@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22b12593-0b97-4891-9cce-62f6a4a7057b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/epam/exampleforjankins1Test.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exampleForJenkins1.iml" afterPath="$PROJECT_DIR$/exampleForJenkins1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/exampleforjankins1Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/exampleforjankins1Test.java" />
     </list>
     <ignored path="exampleForJenkins1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -745,7 +742,7 @@
       <option name="number" value="Default" />
       <updated>1470750408221</updated>
       <workItem from="1470750409564" duration="2082000" />
-      <workItem from="1471273598047" duration="852000" />
+      <workItem from="1471273598047" duration="1047000" />
     </task>
     <servers />
   </component>
@@ -779,10 +776,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2934000" />
+    <option name="totallyTimeSpent" value="3129000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1924" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
