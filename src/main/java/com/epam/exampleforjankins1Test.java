@@ -11,6 +11,5 @@ public class exampleforjankins1Test {
     public void testMain() throws Exception {
         Random random = new Random();
         assert (random.nextBoolean());
-
     }
 }
